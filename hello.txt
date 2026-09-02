@@ -1,4 +1,3 @@
-Hello from MAIN
-Hello from FEATURE
+Hello from NEW DEVELOP
 Git is awesome
 Welcome to my project
